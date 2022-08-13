@@ -1,0 +1,165 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "I'm a results-oriented innovative software developer. Passionate about networking, automation and financial analysis. Familiar with a wide range of programming languages and software products. Seeking new challenges to further grow as a professional.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Cross-platform file manager",
+        "startDate": "2022",
+        "description": "Employing multithreaded microservice architecture to deliver unified storage across devices. Leveraging the gRPC framework for inter-process communication and structure. Used FUSE to represent the remote resources in a human-friendly manner",
+        "images": [
+          "images/portfolio/file-manager/p1.jpg",
+          "images/portfolio/file-manager/p2.jpg"
+        ],
+        "url": "https://github.com/NikolayValev/StorageSquire",
+        "technologies": [
+          {
+            "name": "C++",
+            "class": "devicon-cplusplus-plain",
+            "level": "80"
+          },
+          {
+            "name": "NodeJs",
+            "class": "devicon-nodejs-plain",
+            "level": "80"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "name": "React",
+            "class": "devicon-react-plain",
+            "level": "85"
+          }
+        ]
+      },
+      {
+        "title": "Dominos Games",
+        "startDate": "2021",
+        "description": "Created implementations for Mexican Train dominos in C++ and Java with Android SDK. Developed an efficient AI using maps and two-dimensional arrays. Players play against the computer and can load and save their games",
+        "images": [
+          "images/portfolio/domino-games/p1.jpg",
+          "images/portfolio/domino-games/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "name": "C++",
+            "class": "devicon-cplusplus-plain",
+            "level": "80"
+          },
+          {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "60"
+        }
+        ]
+      },
+      {
+        "title": "Stock and options trader",
+        "startDate": "2020",
+        "description": "Implemented and tested various trading algorithms to learn more about overoptimization and risk management. Strategies include arbitrage, pairing, and mean reversion to eliminate the need for low latency orders. Utilized Beautiful Soup to scrape insider monitoring webpages",
+        "images": [
+          "images/portfolio/trader/p1.png",
+          "images/portfolio/trader/p2.png"
+        ],
+        "url": "https://github.com/NikolayValev/AlpacaPaperTrader",
+        "technologies": [
+          {
+            "name": "NodeJs",
+            "class": "devicon-nodejs-plain",
+            "level": "80"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "60"
+        }
+        ]
+      },
+      {
+        "title": "Network chatroom",
+        "startDate": "2020",
+        "description": "Realtime chat with multithreading and end-to-end encryption, built for Unix systems with sockets. Used hashmap and queue data structures to endure timestamps and sender integrity.",
+        "images": [
+          "images/portfolio/network-chatroom/p1.jpg",
+          "images/portfolio/network-chatroom/p2.jpg"
+        ],
+        "url": "https://github.com/NikolayValev/ChatApplicationCPP",
+        "technologies": [
+          {
+          "name": "Unix",
+          "class": "devicon-unix-original",
+          "level": "75"
+          },
+          {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "80"
+        }
+        ]
+      }
+      ,
+      {
+        "title": "Decimal assembler and interpreter",
+        "startDate": "2019",
+        "description": "Designed and developed an assembler and interpreter for a middle-level language given by a specification.",
+        "images": [
+          "images/portfolio/assembler/p1.jpg",
+          "images/portfolio/assembler/p2.jpg"
+        ],
+        "url": "https://github.com/NikolayValev/Quack_Assem-Emul",
+        "technologies": [
+          {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "80"
+        }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Magic",
+        "title": "Intern",
+        "years": "05.2022 - present",
+        "mainTech": [
+          "React JS"
+        ],
+        "technologies": [
+          "REST API",
+          "ReactJS",
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "Ramapo College of NJ ",
+        "title": "Network Support Technician",
+        "years": "09.2018 - 04.2022",
+        "mainTech": [
+          "Python | PHP | JS"
+        ],
+        "technologies": [
+          "PHP",
+          "JavaScript",
+          "Python"
+        ]
+      }
+    ]
+  }

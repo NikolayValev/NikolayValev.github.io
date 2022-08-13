@@ -1,0 +1,82 @@
+{
+    "basic_info": {
+      "name": "Nikolay Valev",
+      "titles": [ "Back-end Developer",
+                  "Network Engineer",
+                  "Cyber-Security Enthusiast"
+                ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/NikolayValev",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "80"
+        },
+        {
+          "name": "NodeJs",
+          "class": "devicon-nodejs-plain",
+          "level": "80"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Unix",
+          "class": "devicon-unix-original",
+          "level": "75"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "85"
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "65"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "60"
+        }
+        ,
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
