@@ -1,0 +1,165 @@
+{
+    "basic_info": {
+      "description_header": "Здравейте",
+      "description": "Иновативен разработчик на софтуер, ориентиран към резултатите. Страстен към работата в мрежа, автоматизацията и финансовия анализ. Запознат с широк набор от езици за програмиране и софтуерни продукти. Търсене на нови предизвикателства за по-нататъшно израстване като професионалист.",
+      "section_name": {
+        "about": "За мен",
+        "projects": "Проекти",
+        "skills": "Умения",
+        "experience": "Опит"
+      }
+    },
+    "projects": [
+      {
+        "title": "Междуплатформен файлов мениджър",
+        "startDate": "2022",
+        "description": "Използване на многонишкова микросервизна архитектура за предоставяне на унифицирано съхранение на устройства. Използване на gRPC рамката за междупроцесна комуникация и структура. Използва се FUSE за представяне на отдалечените ресурси по удобен за хората начин",
+        "images": [
+          "images/portfolio/file-manager/p1.jpg",
+          "images/portfolio/file-manager/p2.jpg"
+        ],
+        "url": "https://github.com/NikolayValev/StorageSquire",
+        "technologies": [
+          {
+            "name": "C++",
+            "class": "devicon-cplusplus-plain",
+            "level": "80"
+          },
+          {
+            "name": "NodeJs",
+            "class": "devicon-nodejs-plain",
+            "level": "80"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "name": "React",
+            "class": "devicon-react-plain",
+            "level": "85"
+          }
+        ]
+      },
+      {
+        "title": "Игри с домино",
+        "startDate": "2021",
+        "description": "Създадени реализации за домино на мексикански влак в C++ и Java с Android SDK. Разработи ефективен AI, използвайки карти и двуизмерни масиви. Играчите играят срещу компютъра и могат да зареждат и запазват своите игри",
+        "images": [
+          "images/portfolio/domino-games/p1.jpg",
+          "images/portfolio/domino-games/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "name": "C++",
+            "class": "devicon-cplusplus-plain",
+            "level": "80"
+          },
+          {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "60"
+        }
+        ]
+      },
+      {
+        "title": "Търговец на акции и опции",
+        "startDate": "2020",
+        "description": "Implemented and tested various trading algorithms to learn more about optimization and risk management. Strategies include arbitrage, pairing, and mean reversion to eliminate the need for low latency orders. Utilized Beautiful Soup to scrape insider monitoring webpages",
+        "images": [
+          "images/portfolio/stock-trader/p1.jpg",
+          "images/portfolio/stock-trader/p2.jpg"
+        ],
+        "url": "https://github.com/NikolayValev/AlpacaPaperTrader",
+        "technologies": [
+          {
+            "name": "NodeJs",
+            "class": "devicon-nodejs-plain",
+            "level": "80"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "60"
+        }
+        ]
+      },
+      {
+        "title": "Мрежова чат стая",
+        "startDate": "2020",
+        "description": "Чат в реално време с многопоточност и криптиране от край до край, създаден за Unix системи със сокети. Използвани структури от данни на hashmap и опашка, за да издържат времеви клеймца и интегритет на подателя.",
+        "images": [
+          "images/portfolio/network-chatroom/p1.jpg",
+          "images/portfolio/network-chatroom/p2.jpg"
+        ],
+        "url": "https://github.com/NikolayValev/ChatApplicationCPP",
+        "technologies": [
+          {
+          "name": "Unix",
+          "class": "devicon-unix-original",
+          "level": "75"
+          },
+          {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "80"
+        }
+        ]
+      }
+      ,
+      {
+        "title": "Десетичен асемблер и интерпретатор",
+        "startDate": "2019",
+        "description": "Проектиран и разработен асемблер и интерпретатор за език от средно ниво, даден от спецификация.",
+        "images": [
+          "images/portfolio/assembler/p1.jpg",
+          "images/portfolio/assembler/p2.jpg"
+        ],
+        "url": "https://github.com/NikolayValev/Quack_Assem-Emul",
+        "technologies": [
+          {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "80"
+        }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Magic",
+        "title": "Стажант",
+        "years": "05.2022 - настояще",
+        "mainTech": [
+          "React JS"
+        ],
+        "technologies": [
+          "REST API",
+          "ReactJS",
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "Ramapo College of NJ ",
+        "title": "Техник по мрежова поддръжка",
+        "years": "09.2018 - 04.2022",
+        "mainTech": [
+          "Python | PHP | JS"
+        ],
+        "technologies": [
+          "PHP",
+          "JavaScript",
+          "Python"
+        ]
+      }
+    ]
+  }
