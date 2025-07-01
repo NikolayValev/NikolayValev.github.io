@@ -22,14 +22,19 @@
     "skills": {
       "icons": [
         {
-          "name": "C++",
-          "class": "devicon-cplusplus-plain",
-          "level": "80"
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "90"
         },
         {
-          "name": "NodeJs",
-          "class": "devicon-nodejs-plain",
-          "level": "80"
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "85"
         },
         {
           "name": "HTML 5",
@@ -42,19 +47,14 @@
           "level": "95"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "80"
+        },
+        {
+          "name": "Vue.js",
+          "class": "devicon-vuejs-plain",
           "level": "90"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
-          "name": "Unix",
-          "class": "devicon-unix-original",
-          "level": "75"
         },
         {
           "name": "React",
@@ -62,20 +62,34 @@
           "level": "85"
         },
         {
-          "name": "PHP",
-          "class": "devicon-php-plain",
-          "level": "65"
+          "name": "NodeJs",
+          "class": "devicon-nodejs-plain",
+          "level": "85"
         },
         {
-          "name": "Java",
-          "class": "devicon-java-plain",
-          "level": "60"
-        }
-        ,
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "90"
+        },
         {
-          "name": "Python",
-          "class": "devicon-python-plain",
-          "level": "60"
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-original",
+          "level": "75"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "80"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "80"
+        },
+        {
+          "name": "Unix",
+          "class": "devicon-unix-original",
+          "level": "85"
         }
       ]
     }

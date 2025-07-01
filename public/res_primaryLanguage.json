@@ -7,13 +7,58 @@
         "projects": "Projects",
         "skills": "Skills",
         "experience": "Experience"
+      },
+      "education": {
+        "university": "Ramapo College Of New Jersey",
+        "graduation_date": "June 2022",
+        "degree": "B.S. Computer Science",
+        "minor": "Mathematics",
+        "honors": "Dean's List, Presidential Scholar, Dean's Advisory Board, Cum Laude",
+        "gpa": "3.5"
       }
     },
     "projects": [
       {
+        "title": "Stealth fintech platform",
+        "startDate": "2023",
+        "description": "Engineered full-stack trading platform with secure multi-payment flows (Stripe, PayPal), sub-200ms latency. Designed GDPR-compliant authentication, reduced support tickets by 35%. Integrated PostgreSQL/Firebase for hybrid storage, improved query times by 30%. Deployed with Vercel CI/CD, ensured near-zero downtime.",
+        "images": [
+          "images/portfolio/fintech/p1.jpg",
+          "images/portfolio/fintech/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "name": "Next.js",
+            "class": "devicon-nextjs-plain",
+            "level": "90"
+          },
+          {
+            "name": "NodeJs",
+            "class": "devicon-nodejs-plain",
+            "level": "85"
+          },
+          {
+            "name": "TypeScript",
+            "class": "devicon-typescript-plain",
+            "level": "90"
+          },
+          {
+            "name": "PostgreSQL",
+            "class": "devicon-postgresql-plain",
+            "level": "80"
+          },
+          {
+            "name": "Stripe",
+            "class": "devicon-stripe-original",
+            "level": "75"
+          }
+        ]
+      },
+      {
         "title": "Cross-platform file manager",
         "startDate": "2022",
-        "description": "Employing multithreaded microservice architecture to deliver unified storage across devices. Leveraging the gRPC framework for inter-process communication and structure. Used FUSE to represent the remote resources in a human-friendly manner",
+        "description": "Developed multithreaded microservice architecture for unified device storage. Used gRPC for Bi-directional streaming and code generation. Employing multithreaded microservice architecture to deliver unified storage across devices.",
         "images": [
           "images/portfolio/file-manager/p1.jpg",
           "images/portfolio/file-manager/p2.jpg"
@@ -31,13 +76,19 @@
             "level": "80"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
             "name": "React",
             "class": "devicon-react-plain",
             "level": "85"
+          },
+          {
+            "name": "SASS",
+            "class": "devicon-sass-plain",
+            "level": "75"
+          },
+          {
+            "name": "MongoDB",
+            "class": "devicon-mongodb-plain",
+            "level": "80"
           }
         ]
       },
@@ -136,29 +187,48 @@
     ],
     "experience": [
       {
-        "company": "Magic",
-        "title": "Intern",
-        "years": "05.2022 - present",
+        "company": "Medscape",
+        "title": "Associate Software Developer",
+        "years": "10.2022 - Present",
         "mainTech": [
-          "React JS"
+          "Vue.js"
         ],
         "technologies": [
-          "REST API",
-          "ReactJS",
-          "JavaScript"
+          "Vue.js",
+          "JavaScript",
+          "GitLab CI/CD",
+          "Jest",
+          "ESLint",
+          "Mobile Development"
         ]
       },
       {
-        "company": "Ramapo College of NJ ",
-        "title": "Network Support Technician",
-        "years": "09.2018 - 04.2022",
+        "company": "Superfan",
+        "title": "Web Developer Intern",
+        "years": "05.2022 - 10.2022",
         "mainTech": [
-          "Python | PHP | JS"
+          "React"
+        ],
+        "technologies": [
+          "React",
+          "RESTful APIs",
+          "JavaScript",
+          "Frontend Development"
+        ]
+      },
+      {
+        "company": "Ramapo College of NJ",
+        "title": "Network Support Technician",
+        "years": "09.2018 - 05.2022",
+        "mainTech": [
+          "PHP | Cisco CLI"
         ],
         "technologies": [
           "PHP",
-          "JavaScript",
-          "Python"
+          "Cisco CLI",
+          "Network Management",
+          "VLANs",
+          "DHCP"
         ]
       }
     ]
